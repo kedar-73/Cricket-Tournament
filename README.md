@@ -1,4 +1,4 @@
-# Webbuzz Cricket Website Challenge
+# Cricket Tournament Registration
 
 Welcome to the Cricket-Themed Website project for Webbuzz, a sports organization dedicated to conducting cricket tournaments in various formats. This project showcases a dynamic and engaging website built using Next.js, TypeScript, Tailwind CSS, and ShedCN UI.
 
@@ -23,12 +23,12 @@ To set up the project locally, follow these steps:
 1. Clone the repository:
 
    
-   git clone https://github.com/Shuffled720/Webbuzz-challenge.git
+   git clone https://github.com/kedar-73/Cricket-Tournament.git
 
 2. Navigate to the project directory:
 
    
-   cd Webbuzz-challenge
+   cd Cricket-Tournament
 
 3. Install dependencies:
 
